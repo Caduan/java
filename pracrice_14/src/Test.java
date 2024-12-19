@@ -20,4 +20,5 @@ public class Test {
         System.out.println("\nИзменение состояния после удаления подписчика");
         subject.changeState("New condition!");
     }
+
 }
